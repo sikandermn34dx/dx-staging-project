@@ -1,0 +1,3 @@
+[submodule "dx-staging-project"]
+	path = dx-staging-project
+	url = https://github.com/sikandermn34dx/dx-staging-project.git
